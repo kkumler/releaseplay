@@ -1,2 +1,2 @@
 # releaseplay
-Just playing around with github release stuff
+Just playing around with GitHub release stuff
